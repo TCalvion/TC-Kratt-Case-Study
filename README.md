@@ -17,6 +17,8 @@ A test count alone says little about whether a patch satisfies the original task
 
 ## Project status
 
+The November 2026 snapshot spans about 67,000 lines of implementation across Python, SQL, and the dashboard. Pytest collected 3,364 automated test cases at the same revision.
+
 The private Python repository contains the execution ledger, worktree and evidence handling, and approval workflow. The operator dashboard is being extended, and repository bootstrap remains experimental. Kratt is an internal project at TCalvion Tech.
 
 *Steve Jensen · TCalvion Tech OÜ*
